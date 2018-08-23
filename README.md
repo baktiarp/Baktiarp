@@ -1,0 +1,9 @@
+# Baktiarp
+Hasil Screenshot
+![alt text](https://github.com/baktiarp/Baktiarp/blob/master/Jobsheet2/Screenshot%20(102).png)
+![alt text](https://github.com/baktiarp/Baktiarp/blob/master/Jobsheet2/Screenshot%20(103).png)
+![alt text](https://github.com/baktiarp/Baktiarp/blob/master/Jobsheet2/Screenshot%20(104).png)
+![alt text](https://github.com/baktiarp/Baktiarp/blob/master/Jobsheet2/Screenshot%20(106).png)
+![alt text](https://github.com/baktiarp/Baktiarp/blob/master/Jobsheet2/Screenshot%20(107).png)
+![alt text](https://github.com/baktiarp/Baktiarp/blob/master/Jobsheet2/Screenshot%20(131).png)
+![alt text](https://github.com/baktiarp/Baktiarp/blob/master/Jobsheet2/Screenshot%20(132).png)
